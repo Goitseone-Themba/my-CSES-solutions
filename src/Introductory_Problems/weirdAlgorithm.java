@@ -1,3 +1,6 @@
+package Introductory_Problems;
+//remove package before submitting
+
 import java.util.Scanner;
 
 public class weirdAlgorithm {
@@ -18,3 +21,4 @@ public class weirdAlgorithm {
         }
     }
 }
+ 
