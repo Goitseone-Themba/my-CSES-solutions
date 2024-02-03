@@ -1,4 +1,4 @@
-
+package Introductory_Problems;
 import java.util.*;
 public class Repetitions {
     public static void main(String[] args)  {
